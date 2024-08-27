@@ -18,18 +18,17 @@ global.location = "India, Mizoram, Aizawl" //ur location
 
 //new
 global.botname = '𝕯𝖊𝖛𝖎𝖑 𝕮𝖆𝖙 𝓥3' //ur bot name
-global.ownernumber = ['2348133286181'] //ur owner number, dont add more than one
-global.ownername = '𝕷𝖔𝖗𝖉 𝕹𝖔 𝕹𝖆𝖒𝖊' //ur owner name
+global.ownernumber = ['2349127566707'] //ur owner number, dont add more than one
+global.ownername = 'Anonymous' //ur owner name
 global.websitex = "https://youtu.be/tLq8_qOOGFI"
-global.wagc = "https://whatsapp.com/channel/0029VadIfkvFSAt7RRohyF0t"
 global.themeemoji = '🪀'
-global.wm = "No Name Tech Inc."
-global.botscript = 'https://github.com/Anime-King01/DEVIL-CAT-V3.0' //script link
+global.wm = "Anonymous ."
+global.botscript = 'https://github.com/Mayo-Wrice/DEVIL-CAT-V3.0' //script link
 global.packname = "Sticker By"
-global.author = "𝕯𝖊𝖛𝖎𝖑 𝕮𝖆𝖙 𝓥3\n\n+2348133286181"
+global.author = "𝕯𝖊𝖛𝖎𝖑 𝕮𝖆𝖙 𝓥3\n\n+2349127566707"
 global.creator = "2348133286181@s.whatsapp.net"
 global.xprefix = '.'
-global.premium = ["2348133286181"] // Premium User
+global.premium = ["2349127566707"] // Premium User
 
 //channel id
 global.xchannel = {
